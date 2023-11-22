@@ -1,0 +1,35 @@
+{
+  "name": "strike-paywall",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@bugsnag/js": "^7.16.0",
+    "@bugsnag/plugin-react": "^7.16.0",
+    "@chakra-ui/react": "^1.8.1",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@fontsource/montserrat": "^4.5.2",
+    "axios": "^0.24.0",
+    "color": "^4.2.0",
+    "copy-to-clipboard": "^3.3.1",
+    "framer-motion": "^5.6.0",
+    "next": "^12.2.5",
+    "qrcode.react": "^1.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-simple-toasts": "^2.2.1",
+    "shorthash": "^0.0.2",
+    "swr": "^1.1.2"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "2.5.1"
+  }
+}

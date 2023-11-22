@@ -1,0 +1,18 @@
+.main {
+  min-height: 100vh;
+  padding-top: 82px;
+}
+
+.main > * {
+  margin: 0 6rem;
+}
+
+@media (max-width: 768px) {
+  .main {
+    padding-top: 32px;
+  }
+
+  .main > * {
+    margin: 0 16px;
+  }
+}

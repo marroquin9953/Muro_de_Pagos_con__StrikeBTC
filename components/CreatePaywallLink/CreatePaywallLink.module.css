@@ -1,0 +1,12 @@
+.root {
+  max-width: 388px;
+}
+
+.root h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.root a {
+  text-decoration: underline;
+}
